@@ -8,7 +8,7 @@ Este é um jogo da velha inspirado na temática do clássico jogo Bomberman. O j
 - **JavaScript** para a lógica do jogo e interação com o usuário
 
 ## Como Jogar
-1. Abra o arquivo `index.html` em um navegador.
+1. Abra o link https://mairamendes.github.io/Jogo_da_Velha/ em um navegador.
 2. Escolha entre jogar contra outro jogador ou contra o computador.
 3. Clique nos espaços vazios do tabuleiro para fazer sua jogada.
 4. O jogo alterna entre os jogadores "preto" e "vermelho".
