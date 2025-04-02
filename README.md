@@ -2,7 +2,9 @@
 
 IMPORTANTE!!
 ESSE SITE NÃO REFLETE O MEU NÍVEL DE CONHECIMENTO OU EXPERIÊNCIA!!
+
 Esse site foi feito quando eu estava aprendendo linguagens web.
+
 Estou ciente de que há muitos erros e bugs, eles foram desligados com o objetivo de preservar o meu processo de aprendizado.
 
 Este é um jogo da velha inspirado na temática do clássico jogo Bomberman. O jogo pode ser jogado entre duas pessoas ou contra um oponente controlado pelo computador.
